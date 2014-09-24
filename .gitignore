@@ -41,3 +41,17 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+*.class
+bin/defaultconfig/wabacus.cfg.default.xml
+bin/defaultconfig/3des.key
+bin/defaultconfig/wabacus.resources.default.xml
+bin/defaultconfig/xsd/wabacus.applications.xsd
+bin/defaultconfig/xsd/wabacus.cfg.xsd
+bin/defaultconfig/xsd/wabacus.resources.xsd
+bin/defaultconfig/xsd/wabacus.util.xsd
+bin/licence
+bin/log4j.properties
+bin/wabacus.tld
+bin/COPYING.LESSER
+bin/COPYING
